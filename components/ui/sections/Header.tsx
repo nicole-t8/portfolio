@@ -20,7 +20,7 @@ export function Header() {
   };
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 px-6 py-4">
+    <nav className="hidden md:block fixed top-0 left-0 right-0 z-50 px-6 py-4">
       <div
         className="absolute inset-0 bg-gradient-to-b from-black to-transparent"
         style={{ zIndex: -1 }}
