@@ -63,7 +63,7 @@ export function TracingBeamSection() {
               read — with filtering to find exactly what you're looking for.
             </p>
             <video controls width="100%" className="rounded-xl mt-4">
-              <source src="/booktrack_clean.mp4" type="video/mp4" />
+              <source src="./booktrack_clean.mp4" type="video/mp4" />
               Sorry, your browser doesn't support embedded videos.
             </video>
             <h2 className="font-mono text-sm tracking-widest mb-4 mt-10 text-secondary">
@@ -77,7 +77,7 @@ export function TracingBeamSection() {
               speech-to-text transcription powered by Transformers.js.
             </p>
             <video controls width="100%" className="rounded-xl mt-4">
-              <source src="/readysethire-demo_clean.mp4" type="video/mp4" />
+              <source src="./readysethire-demo_clean.mp4" type="video/mp4" />
               Sorry, your browser doesn't support embedded videos.
             </video>
 
@@ -100,7 +100,7 @@ export function TracingBeamSection() {
               </div>
               <div className="md:w-1/2 w-full">
                 <video controls className="rounded-2xl w-full">
-                  <source src="/formbase_clean.mp4" type="video/mp4" />
+                  <source src="./formbase_clean.mp4" type="video/mp4" />
                   Sorry, your browser doesn't support embedded videos.
                 </video>
               </div>
